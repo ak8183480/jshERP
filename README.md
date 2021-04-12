@@ -5,13 +5,8 @@
 * 系统默认租户账号：jsh，默认超管账户：admin，默认密码均为：123456
 * 部署如遇到困难请参考Wiki文档  https://gitee.com/jishenghua/JSH_ERP/wikis/pages
 
-# 定制服务
-* 如有ERP **私人定制** 需求，请将需求整理成文档，发给邮箱： **752718920@qq.com** ，我会及时回复哒
 
-# 开发初衷
-* 华夏ERP立志为中小企业提供开源好用的ERP软件，降低企业的信息化成本
-* 个人开发者也可以使用华夏ERP进行二次开发，加快完成开发任务
-* 初学JAVA的小伙伴可以下载源代码来进行学习交流
+
 * 感谢热心的小伙伴整理的用户手册 https://kdocs.cn/l/sJaqlO1du?f=501
 
 # 技术框架
@@ -41,31 +36,4 @@
 # 开源说明
 * 本系统100%开源，遵守GPL-3.0协议
 
-# 系统美图
-* 首页
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0529/231814_369bb779_852955.png "首页.png")
-* 零售管理
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0529/231841_c9ce6aef_852955.png "零售管理.png")
-* 采购管理
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0529/231855_c479fab0_852955.png "采购管理.png")
-* 销售管理
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0529/231921_9c3e50ad_852955.png "销售管理.png")
-* 仓库管理
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0529/231940_7a92e2d4_852955.png "仓库管理.png")
-* 财务管理
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0529/231953_fba4f4db_852955.png "财务管理.png")
-* 报表查询
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0529/232009_804e695f_852955.png "报表查询.png")
-* 商品管理
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0529/232026_1cb16302_852955.png "商品管理.png")
-* 基本资料
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0529/232044_61213fdc_852955.png "基本资料.png")
-* 系统管理
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0529/232101_a502d325_852955.png "系统管理.png")
 
-# 捐赠
-开源不易，坚持更难！如果您觉得华夏ERP不错，可以捐赠请作者喝杯咖啡~，在此表示感谢^_^。
-
-点击以下链接，将页面拉到最下方点击“捐赠”即可。
-
-[前往捐赠](https://gitee.com/jishenghua/JSH_ERP)
